@@ -1,0 +1,8 @@
+essentia
+jupyter
+madmom
+mir-eval
+numpy
+crema
+librosa>0.6
+pumpp==0.3.2

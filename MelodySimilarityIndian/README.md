@@ -9,9 +9,10 @@ similarity in indian music.
 - [Essentia](https://essentia.upf.edu/documentation/installing.html)
 
 ```bash
-virtualenv --system-side-packages venv
+python3 -m venv --system-site-packages venv
 source venv/bin/activate
 pip install -r requirements.txt
+jupyter notebook
 ```
 
 ## Notebooks
